@@ -1,0 +1,14 @@
+[
+  {
+    "Split": "train",
+    "Pairs": 1041
+  },
+  {
+    "Split": "val",
+    "Pairs": 65
+  },
+  {
+    "Split": "test",
+    "Pairs": 22
+  }
+]
